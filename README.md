@@ -23,7 +23,7 @@
 
 ![alt text](https://github.com/sakethbachu/denoising_autoencoder/blob/master/img/without%20noise.jpg)&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![alt text](https://github.com/sakethbachu/denoising_autoencoder/blob/master/img/with%20noise.jpg)
 
-* The below given image describes another type od noise called the speckle noise.
+* The below given image describes another type of noise called the speckle noise.
 ![alt text](https://github.com/sakethbachu/denoising_autoencoder/blob/master/img/speckle%20noise.jpg)
 
 ## Methods
