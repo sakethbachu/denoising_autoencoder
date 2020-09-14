@@ -39,3 +39,6 @@ In this repository, we have used a linear autoencoder.
 ## Usage
 
 ## Requirements
+* Pytorch
+* MNIST dataset
+* OpenCV
