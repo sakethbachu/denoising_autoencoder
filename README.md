@@ -27,10 +27,14 @@
 ![alt text](https://github.com/sakethbachu/denoising_autoencoder/blob/master/img/speckle%20noise.jpg)
 
 ## Methods
+In this repository, we have used a linear autoencoder.
 
 ## Features
 
 ## Demo
+* The below image shows the original, noisy and cleaned image.
+![alt text](https://github.com/sakethbachu/denoising_autoencoder/blob/master/img/demo.png)
+
 
 ## Usage
 
